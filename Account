@@ -1,0 +1,12 @@
+public class Account {
+String login;
+float balance;
+
+public String getLogin(){
+return this.login;
+}
+
+public float getBalance(){
+return this.balance;
+}
+}
