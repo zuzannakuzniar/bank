@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29ec3ed1-adec-4fd4-afdd-1c5f65d6ea1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Account" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bank.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Account" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,25 +20,44 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Bank">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Bank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+            <state relative-caret-position="153">
+              <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Account">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Account.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+            <state relative-caret-position="374">
+              <caret line="22" column="62" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
+              <folding>
+                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#118#119#0" expanded="true" />
+                <element signature="e#160#161#0" expanded="true" />
+                <element signature="e#194#195#0" expanded="true" />
+                <element signature="e#227#228#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#302#303#0" expanded="true" />
+                <element signature="e#340#341#0" expanded="true" />
+                <element signature="e#386#387#0" expanded="true" />
+                <element signature="e#430#431#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,8 +67,10 @@
       <list>
         <option value="$PROJECT_DIR$/test3" />
         <option value="$PROJECT_DIR$/test2.txt" />
-        <option value="$PROJECT_DIR$/Bank" />
         <option value="$PROJECT_DIR$/Account" />
+        <option value="$PROJECT_DIR$/Bank" />
+        <option value="$PROJECT_DIR$/src/Bank.java" />
+        <option value="$PROJECT_DIR$/src/Account.java" />
       </list>
     </option>
   </component>
@@ -68,6 +92,11 @@
               <item name="Bank" type="b2602c69:ProjectViewProjectNode" />
               <item name="bank" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Bank" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -77,7 +106,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551526982702" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551527407096" />
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RunDashboard">
@@ -91,6 +120,20 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Bank" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bank" />
+      <module name="Bank" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Bank" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -176,17 +219,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Bank">
+    <entry file="file://$PROJECT_DIR$/Account">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
-          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Account">
+    <entry file="file://$PROJECT_DIR$/Bank">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="14" lean-forward="true" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        <state relative-caret-position="374">
+          <caret line="22" column="62" selection-start-line="22" selection-start-column="62" selection-end-line="22" selection-end-column="62" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+            <element signature="e#386#387#0" expanded="true" />
+            <element signature="e#430#431#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
         </state>
       </provider>
     </entry>
